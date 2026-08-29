@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+yfinance
+openpyxl
+lxml
+google-api-python-client
+google-auth
+google-auth-httplib2
